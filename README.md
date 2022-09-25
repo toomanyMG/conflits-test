@@ -1,3 +1,3 @@
-# conflits-test
+LOCAL
 
 Time to test !
