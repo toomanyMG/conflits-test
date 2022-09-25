@@ -1,5 +1,3 @@
-# conflits-test
-
+REMOTE
 Time to test !
 
-REMOTE
